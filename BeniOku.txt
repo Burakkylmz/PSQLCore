@@ -1,0 +1,8 @@
+--Projeye baþlamadan PostgreSql ve önerim pgAdmin4(Web arayüzü ile yönetim sistemi saðlar. GUI) yüklenmiþ olmalý.
+
+
+--Projelere npgsql.entityframeworkcore.Postgresql yüklenmeli
+--Appsettings.json dosyasýna connection string satýrý eklenmeli
+--Startup.cs dosyasýna ConfigureServices metoduna, class içerisinde belirtilen satýr eklenmeli.
+--Context sýnýfýnda ctor içerisinde belirtilen kod satýrý eklenmeli.
+--Bu adýmlardan sonra nerdeyse birebir core projenize devam edebilirsiniz.

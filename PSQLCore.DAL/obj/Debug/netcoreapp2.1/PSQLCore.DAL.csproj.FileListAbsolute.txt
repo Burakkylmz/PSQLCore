@@ -1,0 +1,9 @@
+C:\VS Projects\PSQLCore\PSQLCore.DAL\bin\Debug\netcoreapp2.1\PSQLCore.DAL.deps.json
+C:\VS Projects\PSQLCore\PSQLCore.DAL\bin\Debug\netcoreapp2.1\PSQLCore.DAL.dll
+C:\VS Projects\PSQLCore\PSQLCore.DAL\bin\Debug\netcoreapp2.1\PSQLCore.DAL.pdb
+C:\VS Projects\PSQLCore\PSQLCore.DAL\obj\Debug\netcoreapp2.1\PSQLCore.DAL.csprojAssemblyReference.cache
+C:\VS Projects\PSQLCore\PSQLCore.DAL\obj\Debug\netcoreapp2.1\PSQLCore.DAL.csproj.CoreCompileInputs.cache
+C:\VS Projects\PSQLCore\PSQLCore.DAL\obj\Debug\netcoreapp2.1\PSQLCore.DAL.AssemblyInfoInputs.cache
+C:\VS Projects\PSQLCore\PSQLCore.DAL\obj\Debug\netcoreapp2.1\PSQLCore.DAL.AssemblyInfo.cs
+C:\VS Projects\PSQLCore\PSQLCore.DAL\obj\Debug\netcoreapp2.1\PSQLCore.DAL.dll
+C:\VS Projects\PSQLCore\PSQLCore.DAL\obj\Debug\netcoreapp2.1\PSQLCore.DAL.pdb
